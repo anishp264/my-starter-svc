@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Q2Z/Vm9ejnHvr+H1C8Mk+X90hSpFtj7m8kjYJTDRvUI=",
+  "Source": "my-starter-svc",
+  "BasePath": "_content/my-starter-svc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
